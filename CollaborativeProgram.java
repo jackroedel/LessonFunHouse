@@ -4,6 +4,7 @@ public class CollaborativeProgram {
       kai();
    }
    
+   //This is Kai's method
    public static void kai() {
       System.out.println("Hi Kai!");
    }
