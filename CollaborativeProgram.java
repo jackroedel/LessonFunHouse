@@ -3,6 +3,7 @@ public class CollaborativeProgram {
       System.out.println("Hello world!");
       kai();
       aubin();
+      jess();
    }
    
    public static void kai() {
@@ -11,6 +12,10 @@ public class CollaborativeProgram {
 
    public static void aubin() {
       System.out.println("Hi Aubin!");
+   }
+
+   public static void jess() {
+      System.out.println("Hi jessica!");
    }
    
    //add your own methods below (please make your name the name of your method)
