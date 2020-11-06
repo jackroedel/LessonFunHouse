@@ -1,1 +1,3 @@
 # LessonFunHouse
+Hi!
+This is cool...
