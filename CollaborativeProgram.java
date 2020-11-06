@@ -12,6 +12,10 @@ public class CollaborativeProgram {
    public static void aubin() {
       System.out.println("Hi Aubin!");
    }
+
+   public static void kenny(){
+      System.out.println("Kenny!");
+   }
    
    //add your own methods below (please make your name the name of your method)
 }
