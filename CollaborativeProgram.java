@@ -8,6 +8,8 @@ public class CollaborativeProgram {
    public static void kai() {
       System.out.println("Hi Kai!");
    }
+   //hey
+   
    
    //add your own methods below (please make your name the name of your method)
 }
